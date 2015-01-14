@@ -40,6 +40,8 @@ Do you:
 
 [Begin to dance to pass the time?](dance/dance.md)
 
+[Start jumping around like a 3-year old?](../jump-around/jump-around.md)
+
 [You pinch yourself to see whether you are dreaming?](pinch/pinch.md)
 
 [Promise to yourself this is the last time you take hallucinogenic mushrooms?](shrooms/never-again.md)
